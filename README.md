@@ -4,7 +4,7 @@ My dotfiles for debian based systems!
 #Installation
 To install use the following
 ```bash
-sh -c "$curl https://raw.github.com/AlexChdawickP/main/setup.sh"
+sh -c "$wget https://raw.githubusercontent.com/AlexChadwickP/dotfiles/main/setup.sh"
 ```
 
 ## References
